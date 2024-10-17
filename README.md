@@ -7,20 +7,18 @@ I'm **Sanjay Rajpurohit**, a passionate full-stack web developer focused on buil
 
 ---
 
-## 💻 Tech Stack:
-### Languages & Tools
+## 💻 Tech Stack (3D Icons)
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" width="80" height="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/nodejs.png" alt="Node.js" width="80" height="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/javascript.png" alt="JavaScript" width="80" height="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/html-5.png" alt="HTML5" width="80" height="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/css3.png" alt="CSS3" width="80" height="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/typescript.png" alt="TypeScript" width="80" height="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/mysql.png" alt="MySQL" width="80" height="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/mongodb.png" alt="MongoDB" width="80" height="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/firebase.png" alt="Firebase" width="80" height="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/docker.png" alt="Docker" width="80" height="80"/>
 </div>
 
 ---
