@@ -9,7 +9,7 @@ I'm **Sanjay Rajpurohit**, a passionate full-stack web developer focused on buil
 
 ---
 
-## 💻 Tech Stack (3D Icons)
+## 💻 Tech Stack
 <div align="center">
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
