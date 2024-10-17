@@ -33,9 +33,8 @@ I'm **Sanjay Rajpurohit**, a passionate full-stack web developer focused on buil
 ---
 
 ## 🐍 GitHub Contribution Snake:
-<div align="center">
-  <img src="https://github.com/MrSanjayRaj/MrSanjayRaj/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+![GitHub Contribution Snake](https://github.com/MrSanjayRaj/MrSanjayRaj/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
