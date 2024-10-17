@@ -22,13 +22,19 @@ I'm **Sanjay Rajpurohit**, a passionate full-stack web developer focused on buil
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 
-
 ---
 
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MrSanjayRaj&theme=shades-of-purple&hide_border=true" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSanjayRaj&theme=shades-of-purple&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake:
+<div align="center">
+  <img src="https://github.com/MrSanjayRaj/MrSanjayRaj/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
@@ -51,3 +57,4 @@ I'm **Sanjay Rajpurohit**, a passionate full-stack web developer focused on buil
 ## 📫 How to reach me:
 - **Email**: wd.sanjay.raj@gmail.com
 - **LinkedIn**: [Sanjay Rajpurohit](https://www.linkedin.com/in/sanjay-rajpurohit-405117215/)
+- **WhatsApp**: [Chat on WhatsApp](https://wa.me/9602576625)
