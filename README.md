@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Sanjay Rajpurohit 👋
 
-<!--
-**MrSanjayRaj/MrSanjayRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack web developer with 2 years of experience. Below you'll find my projects, skills, and coding activities from GitHub and LeetCode.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Skills
+- JavaScript (React, Node.js, Express)
+- TypeScript
+- MongoDB, SQL
+- Next.js, Tailwind CSS
+- Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Projects
+- [Growvix](https://github.com/sanjay123/growvix)
+
+### 📊 My LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/MrSanjayRaj/)
+
+### 📫 How to reach me
+- Email: your-email@example.com
