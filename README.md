@@ -2,7 +2,6 @@
 I'm **Sanjay Rajpurohit**, a passionate full-stack web developer focused on building dynamic web applications and solving complex problems. I enjoy creating efficient, scalable solutions using the latest technologies and constantly learning and growing in the field of web development.
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-rajpurohit-405117215/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSanjayRaj)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.raj_sanjay/)
